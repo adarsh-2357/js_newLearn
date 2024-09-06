@@ -1,2 +1,2 @@
 # js_newLearn
-##New to javascipt
+New to javascipt
